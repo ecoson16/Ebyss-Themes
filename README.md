@@ -1,11 +1,18 @@
-# Ebyss-Themes
-Modern and cozy themes for [Prism Launcher](https://prismlauncher.org/). You can [get my other themes here](https://github.com/PrinceAkaid/Ecoson-Themes). Here are the previews of Ebyss theme and its varients.
+# Ebyss Themes
+Modern, cozy, and colorful themes for [Prism Launcher](https://prismlauncher.org/).
+Ebyss currently comes in four variants, each with its own unique style:
+- **Ebyss** - The original theme.
+- **Ebyss Choco** - A warm, chocolaty variant.
+- **Ebyss Steam** - A sleek, [steam inspired](https://store.steampowered.com/) take on the original.
+- **Ebyss Ice Cream** - A soft and ice cream variant.
+And no, **Ebyss** isn't a spelling mistake of *Abyss*. I just thought it sounded cooler lol :3
+You can [find my other themes here](https://github.com/PrinceAkaid/Ecoson-Themes).
 
-# Ebyss
-<img width="1366" height="732" alt="preview" src="https://github.com/user-attachments/assets/fecf231c-970b-4f2d-9e80-1f215bd1e062" />
-
-# Ebyss Choco
-<img width="1366" height="732" alt="preview" src="https://github.com/user-attachments/assets/25388045-7424-476c-b391-f76d6f18e74e" />
-
-# Ebyss Cream
-<img width="1366" height="732" alt="preview" src="https://github.com/user-attachments/assets/7e7003f8-131e-4e2d-9334-52e85eeaf978" />
+Ebyss
+<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/1bf174fa-88c3-4137-910c-8f501d143bb6" />
+Ebyss Choco
+<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/fb47060d-1573-4019-ae8b-7eb321f97039" />
+Ebyss Steam
+<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/a280062a-ee74-4b4b-958a-71146c68deb2" />
+Ebyss Ice Cream
+<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/0d5c5ae9-9a05-41ba-ba04-f543ec380a39" />
