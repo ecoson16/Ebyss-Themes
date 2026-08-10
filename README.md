@@ -3,7 +3,7 @@ Modern, cozy, and colorful themes for [Prism Launcher](https://prismlauncher.org
 Ebyss currently comes in four variants, each with its own unique style:
 - **Ebyss** - The original theme.
 - **Ebyss Choco** - A warm, chocolaty variant.
-- **Ebyss Steam** - A sleek, [steam inspired](https://store.steampowered.com/) take on the original.
+- **Ebyss Steam** - A sleek, [steam](https://store.steampowered.com/) inspired take on the original.
 - **Ebyss Ice Cream** - A soft and ice cream variant.
 And no, **Ebyss** isn't a spelling mistake of *Abyss*. I just thought it sounded cooler lol :3
 You can [find my other themes here](https://github.com/PrinceAkaid/Ecoson-Themes).
