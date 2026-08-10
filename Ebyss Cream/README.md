@@ -4,15 +4,17 @@ SPDX-FileCopyrightText: 2026 Lutitious <notlutitious@gmail.com>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-Ebyss Cream
----
-Cream varient of the Ebyss theme.
+## Ebyss Ice Cream
+
+Ice Cream varient of the Ebyss theme.
 Thanks for downloading, love you! 😊
 
 ## Preview
-![Ebyss Cream Preview](preview.png)
+
+![Ebyss Ice Cream Preview](preview.png)
 
 ## License
+
 ```
 MIT License
 
