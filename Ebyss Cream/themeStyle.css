@@ -20,7 +20,7 @@ QDockWidget::title {
 
 QWidget {
   border-color: #d0c0a0;
-  font-family: "Segoe UI Variable Text Semibold", "Segoe UI", serif;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
   border-radius: 0px;
   color: #42281d;
 }
@@ -72,9 +72,18 @@ QToolBar[orientation="1"] {
 }
 
 QToolBar::separator {
-  background: #d0c0a0;
+  background: qlineargradient(
+    x1: 0,
+    y1: 0,
+    x2: 0,
+    y2: 1,
+    stop: 0 transparent,
+    stop: 0.3 #f5ecd8,
+    stop: 0.7 #f5ecd8,
+    stop: 1 transparent
+  );
   width: 1px;
-  margin: 5px 4px;
+  margin: 4px 4px;
 }
 
 QToolBar::separator:horizontal {
@@ -135,7 +144,12 @@ QToolButton:pressed {
 QToolButton:disabled {
   color: #bdb0a8;
   background-color: #f3ead3;
-  border-color: #eadfca;
+  border-style: solid;
+  border-width: 2px;
+  border-top-color: #eadfca;
+  border-left-color: #eadfca;
+  border-right-color: #d0c0a0;
+  border-bottom-color: #d0c0a0;
 }
 
 QToolButton::menu-indicator {
@@ -220,7 +234,16 @@ QMenu::item:pressed {
 
 QMenu::separator {
   height: 1px;
-  background: #f5ecd8;
+  background: qlineargradient(
+    x1: 0,
+    y1: 0,
+    x2: 1,
+    y2: 0,
+    stop: 0 transparent,
+    stop: 0.15 #f5ecd8,
+    stop: 0.85 #f5ecd8,
+    stop: 1 transparent
+  );
   margin: 4px 8px;
 }
 
@@ -410,7 +433,7 @@ QTreeView::branch:has-children:open:hover {
 
 /*HEADERVIEW*/
 QHeaderView {
-  font-family: "Segoe UI Variable Small", serif;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
   font-size: 12px;
   background-color: transparent;
   text-align: center;
@@ -1213,8 +1236,8 @@ InstanceView {
 
 #statusBar QLabel {
   padding: 20px;
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
   color: #9c847c;
 }
 
