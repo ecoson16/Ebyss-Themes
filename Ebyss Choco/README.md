@@ -4,15 +4,17 @@ SPDX-FileCopyrightText: 2026 Lutitious <notlutitious@gmail.com>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-Ebyss Choco
----
+## Ebyss Choco
+
 Chocolate varient of the Ebyss theme.
 Thanks for downloading, love you! 😊
 
 ## Preview
+
 ![Ebyss Choco Preview](preview.png)
 
 ## License
+
 ```
 MIT License
 
