@@ -13,6 +13,6 @@ Ebyss
 Ebyss Choco
 <img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/fb47060d-1573-4019-ae8b-7eb321f97039" />
 Ebyss Steam
-<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/a280062a-ee74-4b4b-958a-71146c68deb2" />
+<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/3a6d21d2-9917-4afc-90b2-74ccb63cf5c9" />
 Ebyss Ice Cream
 <img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/0d5c5ae9-9a05-41ba-ba04-f543ec380a39" />
