@@ -6,7 +6,7 @@ Ebyss currently comes in four variants, each with its own unique style:
 - **Ebyss Steam** - A sleek, [steam](https://store.steampowered.com/) inspired take on the original.
 - **Ebyss Ice Cream** - A soft and ice cream variant.
 And no, **Ebyss** isn't a spelling mistake of *Abyss*. I just thought it sounded cooler lol :3
-You can [find my other Prism Launcher themes here](https://ecoson.xyz/Ecoson).
+You can [find my other Prism Launcher themes here](https://github.com/ecoson16/Ecoson-Themes).
 
 Ebyss
 <img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/1bf174fa-88c3-4137-910c-8f501d143bb6" />
